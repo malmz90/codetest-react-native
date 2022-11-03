@@ -8,6 +8,6 @@ To run the project do the following in the terminal
 If i had more time i would
 
 1. Fix loading spinners so they work properly
-2. Improve the search, investigate more into best practises
+2. Improve the search, investigate more into best practices
 3. Styling
 4. Refactor some code
